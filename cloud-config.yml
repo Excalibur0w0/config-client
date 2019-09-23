@@ -1,5 +1,8 @@
 info:
     profile: default
-    test: hellodesuya
+    test: testSuccess
     name: inoriTyan
-    class: shakajin
+    db:
+        uri: http://localhost:3306/inori_cloud_auth
+        username:
+        password:

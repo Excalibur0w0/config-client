@@ -1,3 +1,8 @@
 info:
-    profile: dev22
-    state: helloworld
+    profile: dev
+    test: testSuccess
+    name: inoriTyan
+    db:
+        uri: http://localhost:3306/inori_cloud_auth
+        username:
+        password:
